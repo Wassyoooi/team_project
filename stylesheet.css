@@ -10,5 +10,6 @@ body{
 
 .main{
     height: 500px;
-    color: #fff;
+    color: #000;
+    background-image: url("img/backgroud.jpg")
 }
