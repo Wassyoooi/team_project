@@ -6,10 +6,11 @@
 
 body{
     font-family: "Avenir Next";
+    background-image:url("./img/background.jpg")
 }
 
 .main{
     height: 500px;
-    color: #000;
-    background-image: url("img/backgroud.jpg")
+    font-size:20px;
+    color: #fff;
 }
